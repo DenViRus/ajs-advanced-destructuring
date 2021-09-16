@@ -1,4 +1,4 @@
 // TODO: write your code here
-import { orderByProps } from "./destructuring.js";
+import { getSpecialAttacks } from './destructuring.js';
 
-export { orderByProps };
+export { getSpecialAttacks };
